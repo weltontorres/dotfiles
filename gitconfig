@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = weltonmail@gmail.com
+	name = welton torres
